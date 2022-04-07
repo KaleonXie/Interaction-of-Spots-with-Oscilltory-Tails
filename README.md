@@ -2,6 +2,9 @@
 
 Codes for the paper `` Dynamics of N-spot rings with oscillatory tails in a three-component reaction-diffusion system'' 
 
+https://doi.org/10.48550/arXiv.2204.02740
+
+
 
 Run "Stationary_N_spot_ring_Solver.m" to get a stationary N-spot ring. You can change the variable spots_num to set the N.
 
